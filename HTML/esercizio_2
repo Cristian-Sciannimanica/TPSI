@@ -14,11 +14,9 @@
       body {background-color: rgb(179, 43, 43);}
       h1 {color: blue;}
     </style>
-    <script>
-      function myFunction() { 
-        document.getElementById("titolo").innerHTML = "STRUTTURA BASE DI UNA PAGINA WEB";
-      }
-    </script>
+    
+     
+    
 </head>
 
 <body><!-- Corpo principale della pagina HTML-->
